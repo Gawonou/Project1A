@@ -1,4 +1,4 @@
-package tp1;
+package logPhoto;
 
 /**
  * Classe qui permet de décoder les valeurs

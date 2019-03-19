@@ -1,7 +1,7 @@
 /**
  * 
  */
-package tp1;
+package logPhoto;
 
 /**
  * Classe qui enumere les types d'Images

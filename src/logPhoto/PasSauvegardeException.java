@@ -1,4 +1,4 @@
-package tp1;
+package logPhoto;
 /**
  * Classe d'exception utilisée pour signaler
  * que la photo corrigé n'a pas pu être sauvée.

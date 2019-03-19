@@ -1,4 +1,4 @@
-package tp1;
+package logPhoto;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

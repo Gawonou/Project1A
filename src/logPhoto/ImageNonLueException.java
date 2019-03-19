@@ -1,7 +1,7 @@
 /**
  * 
  */
-package tp1;
+package logPhoto;
 
 /**
  * Classe d'exception utilisée pour signaler
@@ -10,8 +10,6 @@ package tp1;
  *    - pas de point dans le nom
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
  * 
  * @version 8 Oct 2018
  * 

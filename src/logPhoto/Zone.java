@@ -1,4 +1,4 @@
-package tp1;
+package logPhoto;
 
 /**
  * Classe qui defini l'objet Zone
