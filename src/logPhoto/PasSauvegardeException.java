@@ -5,9 +5,6 @@ package tp1;
  * 		- toutes les exceptions en IO
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
- * 
  * @version 9 Oct 2018
  * 
  */

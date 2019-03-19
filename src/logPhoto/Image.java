@@ -11,9 +11,6 @@ import javax.imageio.ImageIO;
  * Classe definit l'image à etre modifiée
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
- * 
  * @version 6 Oct 2018
  */
 public class Image {

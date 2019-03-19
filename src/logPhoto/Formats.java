@@ -8,8 +8,6 @@ package tp1;
  * supportées, selon l'énoncée du TP
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
  * 
  * @version 9 Oct 2018
  * 

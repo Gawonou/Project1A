@@ -4,7 +4,6 @@ package tp1;
  * Classe qui permet de décoder les valeurs
  * des composantes rouge, vert, bleu
  * 
- * @author fournie par le prof
  * 
  */
 public class Couleur {

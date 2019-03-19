@@ -5,16 +5,7 @@ import java.util.Scanner;
 /**
  *  Classe qui corrige les couleurs sur une photo
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
  * 
- * Code permanent : GAVC21107107
- * Code permanent : NTSK11088202 
- * 
- * Courriel: gavidia.cristian@ens.uqam.ca
- * Courriel: n_tsouaglo.kokou_gawonou@courrier.uqam.ca
- * 
- * Cours INF2120-30
  * @version 9 Oct 2018
  */
 public class principale {

@@ -4,8 +4,6 @@ package tp1;
  * Classe qui defini l'objet Zone
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
  * 
  * @version 7 Oct 2018
  */

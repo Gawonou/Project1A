@@ -5,9 +5,6 @@ package tp1;
  * que le fichier ne contient pas d'image valide
  * 		- vide 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
- * 
  * @version 8 Oct 2018
  * 
  */

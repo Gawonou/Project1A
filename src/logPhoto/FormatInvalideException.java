@@ -6,9 +6,6 @@ package tp1;
  * 		- pas une extension supportée 
  * 
  * 
- * @author N'TSOUAGLO Kokou Gawonou
- * @author Cristian Gavidia
- * 
  * @version 8 Oct 2018
  * 
  */
